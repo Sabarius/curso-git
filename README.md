@@ -146,3 +146,9 @@ Reasilza el push, mandando los cambios del repositorio local al remoto.
 
 ## == git pull
 Actualiza el repositorio local con los cambios que esten en el repositorio remoto.
+
+## == git fetch
+Baja los cambios que hay en el repositorio remoto pero no los aplica, los deja en un estado en el que los podemos revisar para ver si los queremos aplicar o no.
+
+## == git switch --detach origin/main
+Cambia a una rama temporal en la que se encuentra lo que se trajo del repositorio remoto con el fetch.
