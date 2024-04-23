@@ -21,6 +21,9 @@ Cambia el nombre de un archivo.
 ## == git show filename
 Muestra información relacionada con el archivo que se seleccionó.
 
+## == git config --global init.defaultBranch main
+Cambia la configuración global para el cómo se llama la rama default.
+
 ## == git diff --staged
 Muestra la diferencia de las versiones entre lo que esta en el área de preparación y lo que esta en el repositorio. 
 
