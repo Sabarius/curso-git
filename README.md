@@ -135,14 +135,14 @@ Esto ignorará todo lo que este adentro de la carpeta "fotos".
 ### !fotos/background.png            
 Hará una escepción de lo que esta arriba y ese archivo especifico si lo subirá.
 
-## code .
+## == code .
 Abre una ventana en VSCode ubicado en la carpeta en la que estas.
 
-## git clone https://github.com/urldelrepositorio
+## == git clone https://github.com/urldelrepositorio
 Clona el repositorio remoto en uno local.
 
-## git push origin main
+## == git push origin main
 Reasilza el push, mandando los cambios del repositorio local al remoto.
 
-## git pull
+## == git pull
 Actualiza el repositorio local con los cambios que esten en el repositorio remoto.
